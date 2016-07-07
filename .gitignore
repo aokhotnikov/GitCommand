@@ -1,0 +1,13 @@
+# Ignore all
+*
+
+# except these files
+!a1-calculator
+!a2-silhouettes
+!a3-huffman
+!a4-fractals
+!a5-collections
+!*.gitignore
+!*.cpp
+!*.h
+!*.pro
